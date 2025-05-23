@@ -1,0 +1,9 @@
+{
+    "Bye": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/bye.mp3",
+    "Good morning": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/good%20morning.mp3",
+    "Good night": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/good%20night.mp3",
+    "Hello": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/hello.mp3",
+    "Hi": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/hi.mp3",
+    ".ping": "https://files.catbox.moe/tibzzt.mp3",
+    ".owner": "https://files.catbox.moe/kjfpz1.mp3"
+}
