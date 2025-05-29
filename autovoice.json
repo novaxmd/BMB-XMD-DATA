@@ -1,7 +1,7 @@
 {
     "Bye": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/bye.mp3",
-    "Good morning": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/good%20morning.mp3",
-    "Good night": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/good%20night.mp3",
+    "Good morning": "https://github.com/bmb200/BMB-DATA/raw/refs/heads/main/media/good-morning.mp3",
+    "Good night": "https://github.com/bmb200/BMB-DATA/raw/refs/heads/main/media/goodnight.mp3",
     "Hello": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/hello.mp3",
     "Hi": "https://github.com/MRSHABAN40/SHABAN-MD_DATABASE/raw/refs/heads/main/autovoice/hi.mp3",
     "repo": "https://files.catbox.moe/f60f5i.mp3",
@@ -13,7 +13,7 @@
     "Good afternoon": "https://files.catbox.moe/e56yzo.mp3",
     "mzee": "https://files.catbox.moe/yaial6.mp3",
     "darling": "https://files.catbox.moe/gae6m6.mp3",
-    "bmb":"https://files.catbox.moe/88mj1p.mp3",
+    "bmb":"https://github.com/bmb200/BMB-DATA/raw/refs/heads/main/media/bmbxmd.m4a",
     ".ping": "https://files.catbox.moe/tibzzt.mp3",
     ".owner": "https://files.catbox.moe/kjfpz1.mp3"
 }
